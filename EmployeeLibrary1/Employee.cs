@@ -8,9 +8,9 @@ namespace EmployeeLibrary1
 {
     public class Employee
     {
-        public int EId { get; set; }
-        public string EName { get; set; }
-        public int EAge { get; set; }
-        public double ESalary { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public double Salary { get; set; }
     }
 }
